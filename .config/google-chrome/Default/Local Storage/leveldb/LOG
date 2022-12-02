@@ -1,0 +1,14 @@
+2022/11/22-13:13:29.111 3 Reusing MANIFEST /home/syaorin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/22-13:13:29.112 3 Recovering log #22
+2022/11/22-13:13:29.113 3 Level-0 table #25: started
+2022/11/22-13:13:29.118 3 Level-0 table #25: 40282 bytes OK
+2022/11/22-13:13:29.125 3 Delete type=0 #22
+2022/11/22-13:13:29.125 5 Compacting 4@0 + 1@1 files
+2022/11/22-13:13:29.138 5 Generated table #27@0: 61 keys, 85293 bytes
+2022/11/22-13:13:29.138 5 Compacted 4@0 + 1@1 files => 85293 bytes
+2022/11/22-13:13:29.148 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/11/22-13:13:29.149 5 Delete type=2 #25
+2022/11/22-13:13:29.149 5 Delete type=2 #23
+2022/11/22-13:13:29.149 5 Delete type=2 #19
+2022/11/22-13:13:29.149 5 Delete type=2 #16
+2022/11/22-13:13:29.149 5 Delete type=2 #14

@@ -1,0 +1,42 @@
+2022-10-28T17:00:24.821Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-10-28T17:00:24.907Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:24.916Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.2-arch1-1)
+2022-10-28T17:00:24.941Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-10-28T17:00:24.999Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:26.119Z - info: [ui] Opt in reported.
+2022-10-28T17:00:27.811Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-10-28T17:00:27.813Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-10-28T17:00:27.820Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c4025132-3d5c-4224-b13e-ceb60ef3aeba
+2022-10-28T17:00:27.823Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-10-28T17:00:37.549Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-10-28T17:00:39.127Z - info: [main] Received possible protocol arguments: 4
+2022-10-28T17:00:39.128Z - info: [main] Processing protocol url
+2022-10-28T17:00:39.130Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-10-28T17:00:39.133Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-10-28T17:00:39.442Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-10-28T17:00:40.535Z - info: [ui] [SignInStore] account resolved
+2022-10-28T17:00:40.539Z - info: [ui] [AppStore] adding account Yurika727 (seggsyurika) to store
+2022-10-28T17:00:40.551Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-10-28T17:00:40.662Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:40.849Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:45.228Z - error: [ui] Error adding account 'Yurika727'
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-10-28T17:00:45.230Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:45.234Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:45.248Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-10-28T17:00:53.462Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-10-28T17:00:53.568Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.2-arch1-1)
+2022-10-28T17:00:53.572Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-10-28T17:00:54.437Z - info: [ui] Stats reported.
+2022-10-28T17:01:03.148Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-10-28T17:01:03.153Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=0ac07916-3508-4274-aa91-ea3fd565a960
+2022-10-28T17:01:07.184Z - info: [main] Received possible protocol arguments: 4
+2022-10-28T17:01:07.186Z - info: [main] Processing protocol url
+2022-10-28T17:01:07.186Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-10-28T17:01:08.571Z - info: [ui] [SignInStore] account resolved
+2022-10-28T17:01:08.572Z - info: [ui] [AppStore] adding account Yurika727 (seggsyurika) to store
+2022-10-28T17:01:13.293Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2022-10-28T17:01:22.768Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/Yurika727/yurika727.github.io.git - Yurika727 (has token)
+2022-10-28T17:01:28.394Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/Yurika727/yurika727.github.io.git /home/syaorin/Code/GitHub/yurika727.github.io (took 5.620s)
+2022-10-28T17:01:28.427Z - info: [ui] [AppStore] adding repository at /home/syaorin/Code/GitHub/yurika727.github.io to store
+2022-10-28T17:01:29.309Z - info: [ui] [BranchPruner] No branches to prune.

@@ -1,0 +1,368 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android smartphones"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple smartphones"
+   },
+   "button_feedback": {
+      "message": "Add a review"
+   },
+   "button_message": {
+      "message": "Send us a message"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Activate the mobile view on this page"
+   },
+   "copie": {
+      "message": "Copy"
+   },
+   "extDescription": {
+      "message": "Smartphone and tablet simulator on computer with several models to test mobile responsive websites."
+   },
+   "extName": {
+      "message": "Mobile simulator - responsive testing tool"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Cancel"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Add a device in a new window"
+   },
+   "menu_change_device": {
+      "message": "Change device"
+   },
+   "menu_close_alone": {
+      "message": "Deactivate the simulator"
+   },
+   "menu_close_multi": {
+      "message": "Close this window"
+   },
+   "menu_help_center": {
+      "message": "Help center"
+   },
+   "menu_info_device": {
+      "message": "Features & mockup of this phone (viewport resolution, etc.)"
+   },
+   "menu_info_device_features": {
+      "message": "Features (viewport resolution, etc.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Free PNG transparent mockup"
+   },
+   "menu_report": {
+      "message": "Report a bug"
+   },
+   "menu_rotate": {
+      "message": "Change the orientation"
+   },
+   "menu_screencast": {
+      "message": "Take a screencast (GIF)"
+   },
+   "menu_screenshot": {
+      "message": "Take a screenshot"
+   },
+   "menu_send_improvement": {
+      "message": "Suggest an improvement"
+   },
+   "menu_send_message": {
+      "message": "Help center"
+   },
+   "menu_settings": {
+      "message": "Settings"
+   },
+   "menu_share": {
+      "message": "Share with a colleague, a friend,..."
+   },
+   "menu_theme_day": {
+      "message": "Activate the day mode"
+   },
+   "menu_theme_night": {
+      "message": "Activate the night mode"
+   },
+   "menu_vote_feature": {
+      "message": "Vote for the features you want"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "new_iphone_14_h1": {
+      "message": "Be the first one to (virtually) use the iPhone 14 PRO"
+   },
+   "notification_update_content_1_v3_0_0": {
+      "message": "New interface with all the action buttons on the right. Ability to have"
+   },
+   "notification_update_content_1_v3_1_0": {
+      "message": "New iPhone 13 (iOS 15) in the PRO version,"
+   },
+   "notification_update_content_2_v3_0_0": {
+      "message": "different devices by tab"
+   },
+   "notification_update_content_2_v3_1_0": {
+      "message": "iPhone 12 become free to use"
+   },
+   "notification_update_content_3_v3_0_0": {
+      "message": ""
+   },
+   "notification_update_content_3_v3_1_0": {
+      "message": "& bug fix on screencast"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Information\u003C/strong>Touch scroll is not available in this simulator, but you can \u003Cstrong>display the scrollbar\u003C/strong> if you don't have mousewheel or trackpad to scroll.\u003Cbr>\u003Cbr>It is an option in the settings on the bottom right \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v3_0_0": {
+      "message": "Update v3.0"
+   },
+   "notification_update_title_v3_1_0": {
+      "message": "Update v3.1"
+   },
+   "notification_update_title_v3_2_0": {
+      "message": "\u003Cstrong>Update v3.2\u003C/strong>\u003Cbr>Is it now possible to do a screenshot \u003Ci class='mdi'>&#xe903;\u003C/i>\u003C/strong> \u003Cstrong>without the mobile frame\u003C/strong>"
+   },
+   "notification_update_title_v3_3_1": {
+      "message": "\u003Cstrong>Update v3.3\u003C/strong>\u003Cbr>Is it now possible to activate the \u003Cstrong>night mode \u003Ci class='mdi'>&#xe91e;\u003C/i>\u003C/strong> and override the background color in the settings \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v3_4_0": {
+      "message": "\u003Cstrong>Update v3.4\u003C/strong>\u003Cbr>Is it now possible to create \u003Cstrong>full page screenshots \u003Ci class='mdi'>&#xe903;\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_4_1": {
+      "message": "\u003Cstrong>Update v3.4\u003C/strong>\u003Cbr>Bug fix about the \u003Cstrong>quality of the screenshots \u003Ci class='mdi'>&#xe903;\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_5_0": {
+      "message": "\u003Cstrong>Update v3.5\u003C/strong>\u003Cbr>\u003Cstrong>7 new recent devices\u003C/strong> (2 in the PRO version) \u003Ci class='mdi'>&#xe917;\u003C/i> + bug fix on the screenshot feature"
+   },
+   "notification_update_title_v3_5_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v3.5\u003C/strong>You can now download for free the \u003Cstrong>transparent PNG mockups\u003C/strong> of the devices.\u003Cbr>Find the info button in the menu on the right."
+   },
+   "notification_update_title_v3_5_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Tip\u003C/strong>You can activate the simulator on \u003Cstrong>local files (file:///)\u003C/strong>. Click below to manually activate the option."
+   },
+   "notification_update_title_v3_6_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v3.6\u003C/strong>3 new recent devices\u003C/strong> (in the PRO version). Samsung Galaxy S22, S22+ and S22 ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v3_6_4": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v3.6\u003C/strong>3 new devices\u003C/strong>, Samsung Galaxy A12 and other special devices \u003Ci class='mdi'>&#xe917;\u003C/i> & bug fixes."
+   },
+   "notification_update_title_v3_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v3.7\u003C/strong>Ability to change the \u003Cstrong>default device\u003C/strong> when the simulator is activated in the settings \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v3_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v3.8\u003C/strong>Discover the 4 new iPhone 14\u003C/strong> (in the PRO version) \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "old": {
+      "message": "--------------------------------------------------------"
+   },
+   "old_mobile_first": {
+      "message": "Auto start. If this option is activated, when you will start the simulator on a domain, every time you will open a new tab on this website the simulator will be on."
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Specials"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Activate the option"
+   },
+   "popup_activate_local_files_info": {
+      "message": "This simulator can't be activated by default on local files (file:///) but you can manually activate the option in the Chrome settings page."
+   },
+   "popup_message": {
+      "message": "Change device and find all the options by using the menu on the right of the simulator"
+   },
+   "popup_site_incompatible": {
+      "message": "This simulator can't be activated on this native Chrome page. Try on another tab. Or browser a website and relaunch."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Unlimited screencasts"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Remove ads"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Billed annually"
+   },
+   "pro_modale_button": {
+      "message": "Subscribe"
+   },
+   "pro_modale_from": {
+      "message": "From"
+   },
+   "pro_modale_h1": {
+      "message": "Become a PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Remove ads"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulate all devices"
+   },
+   "pro_modale_h1_limit": {
+      "message": "You have reached the limit of 5 screencasts per day"
+   },
+   "pro_modale_h2": {
+      "message": "Become a PRO and actively contribute to the development of this extension."
+   },
+   "pro_modale_link_1": {
+      "message": "Or"
+   },
+   "pro_modale_link_2": {
+      "message": "log in"
+   },
+   "pro_modale_link_3": {
+      "message": "to your account"
+   },
+   "pro_modale_recurring_month": {
+      "message": "month"
+   },
+   "pro_modale_savings": {
+      "message": "Save"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Would you recommend this extension ?"
+   },
+   "review_note_feedback": {
+      "message": "Thank you for your feedback, feel free to send us a message so that we can improve this extension."
+   },
+   "review_note_store": {
+      "message": "Thank you for your feedback, feel free to add a review on the Google Store. I would be very grateful 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_error": {
+      "message": "An error has occurred during the screencast. Try again on another tab."
+   },
+   "screencast_generation": {
+      "message": "Creation of the GIF ongoing"
+   },
+   "screencast_modale_contact": {
+      "message": "Report a bug, a suggestion, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Copy"
+   },
+   "screencast_modale_download": {
+      "message": "Download"
+   },
+   "screencast_modale_texte": {
+      "message": "You can share the link of this GIF to anyone or directly download it."
+   },
+   "screencast_modale_title": {
+      "message": "Screencast"
+   },
+   "screencast_modale_upload": {
+      "message": "Upload on the server and get the share link"
+   },
+   "screencast_onboarding_close": {
+      "message": "Close"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Create a mobile video in GIF format in 1 click (max 20 seconds)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Screencast"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_menu_1": {
+      "message": "Screenshot with the device frame"
+   },
+   "screenshot_menu_2": {
+      "message": "Screenshot without the device frame"
+   },
+   "screenshot_menu_3": {
+      "message": "Full page screenshot"
+   },
+   "screenshot_modale_help": {
+      "message": "To save the picture with a good resolution, you can just do a right click on it, then \"Copy Image\", or \"Save Image As\""
+   },
+   "screenshot_modale_title": {
+      "message": "Screenshot"
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_change_analytics": {
+      "message": "I support the developer of this extension to improve his product thanks to Google Analytics. Data is anonymous."
+   },
+   "settings_change_background": {
+      "message": "Change the background color"
+   },
+   "settings_change_cursor": {
+      "message": "Don't change the cursor style in the device"
+   },
+   "settings_default_device": {
+      "message": "Default device of each new activation"
+   },
+   "settings_device_hide": {
+      "message": "Hide the device"
+   },
+   "settings_hide_header_footer": {
+      "message": "Hide the browser header and footer in the device (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Don't display the fake keyboard"
+   },
+   "settings_scrollbar_show": {
+      "message": "Show the native scrollbar in the device (if you don't have trackpad or mousewheel)"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "This extension is useful to you?"
+   },
+   "sharing_h2": {
+      "message": "So share it with your colleagues or friends"
+   },
+   "sharing_review_1": {
+      "message": "And if you have a minute to"
+   },
+   "sharing_review_2": {
+      "message": "add a review"
+   },
+   "sharing_review_3": {
+      "message": "I would be very grateful to you 🙂"
+   },
+   "sharing_review_button": {
+      "message": "I add a review"
+   },
+   "sharing_txt": {
+      "message": "Simulator to test your site on smartphone and tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "This is a fake element. Use your own keyboard."
+   },
+   "simulator_header_info": {
+      "message": "This is a fake element. To change the URL just use the Chrome text field on the top."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablets"
+   }
+}

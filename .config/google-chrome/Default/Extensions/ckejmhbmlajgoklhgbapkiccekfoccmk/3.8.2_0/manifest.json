@@ -1,0 +1,34 @@
+{
+   "author": "François Duprat",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_title": "__MSG_context_menu_activate__"
+   },
+   "content_scripts": [ {
+      "js": [ "js/catchMessagesFromWebsite.js" ],
+      "matches": [ "http://localhost:3000/*", "https://www.webmobilefirst.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icons/128.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIWwnyPHzEPY+Z0SMippUVTblgcpJYs3rjKHd+njYFNHCyG3Hk/VQhML7peaAlaYL+DzCXfSdHkMwjD/JolGgYdaEAZRNhnw27NPcpj8kihb46rIwD6AyQbb2I3gGGCfqF2FP78FfqIJDo9PSP/tszVa7HheUJabNuZJyfHH/Kg/S8XOq1d4C9jq5CXu8+Dux3653QafrvVsOv/hc1KlveMglQV+SYgQ3b0ReH5miZH5QFBUo1hV0UJfu+jqztYn24EqA8Q4EabSN9TC1pDA3KVUWnoLwS2tcZ+k0o+Sxj+pjbPehXes+l46b6CyYvzuzETlfzot27lg6oSPEkC7+QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "tabs", "activeTab", "\u003Call_urls>", "*://*/*", "webRequest", "webRequestBlocking", "webNavigation", "storage", "cookies", "tabCapture", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.8.2",
+   "web_accessible_resources": [ "spoofer.js", "assets/**/*", "css/**/*" ]
+}

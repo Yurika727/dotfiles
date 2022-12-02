@@ -1,0 +1,386 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>\u003C/i> Smartfony z Androidem"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>\u003C/i> Smartfony Apple"
+   },
+   "button_feedback": {
+      "message": "Dodać recenzję"
+   },
+   "button_message": {
+      "message": "Wyślij nam wiadomość"
+   },
+   "close": {
+      "message": "Blisko"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "Aktywuj widok mobilny na tej stronie"
+   },
+   "copie": {
+      "message": "Kopiuj"
+   },
+   "extDescription": {
+      "message": "Symulator smartfona i tabletu na komputerze z kilkoma modelami do testowania responsywnych stron mobilnych."
+   },
+   "extName": {
+      "message": "Symulator mobilny - responsywne narzędzie testowe"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "Anulować"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "Dodaj urządzenie w nowym oknie"
+   },
+   "menu_change_device": {
+      "message": "Zmień urządzenie"
+   },
+   "menu_close_alone": {
+      "message": "Dezaktywuj symulator"
+   },
+   "menu_close_multi": {
+      "message": "Zamknij to okno"
+   },
+   "menu_help_center": {
+      "message": "Centrum pomocy"
+   },
+   "menu_info_device": {
+      "message": "Funkcje tego telefonu (rozdzielczość widoku itp.)"
+   },
+   "menu_info_device_features": {
+      "message": "Funkcje (rozdzielczość rzutni itp.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Darmowa przezroczysta makieta PNG"
+   },
+   "menu_report": {
+      "message": "Zgłoś błąd"
+   },
+   "menu_rotate": {
+      "message": "Zmień orientację"
+   },
+   "menu_screencast": {
+      "message": "Zrób screencast (GIF)"
+   },
+   "menu_screenshot": {
+      "message": "Zrób zrzut ekranu"
+   },
+   "menu_send_improvement": {
+      "message": "Zaproponuj ulepszenie"
+   },
+   "menu_send_message": {
+      "message": "Wysłać wiadomość"
+   },
+   "menu_settings": {
+      "message": "Ustawienia"
+   },
+   "menu_share": {
+      "message": "Podziel się z kolegą, przyjacielem,..."
+   },
+   "menu_theme_day": {
+      "message": "Aktywuj tryb dzienny"
+   },
+   "menu_theme_night": {
+      "message": "Aktywuj tryb nocny"
+   },
+   "menu_vote_feature": {
+      "message": "Głosuj na wybrane funkcje"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_14_h1": {
+      "message": "Bądź pierwszą osobą, która (wirtualnie) użyje iPhone’a 14 PRO"
+   },
+   "notification_update_content_1_v3_0_0": {
+      "message": "Nowy interfejs ze wszystkimi przyciskami akcji po prawej stronie. Możliwość posiadania"
+   },
+   "notification_update_content_1_v3_1_0": {
+      "message": "Nowy iPhone 13 (iOS 15) w wersji PRO,"
+   },
+   "notification_update_content_2_v3_0_0": {
+      "message": "różne urządzenia według karty"
+   },
+   "notification_update_content_2_v3_1_0": {
+      "message": "iPhone 12 staje się bezpłatny w użyciu"
+   },
+   "notification_update_content_3_v3_0_0": {
+      "message": ""
+   },
+   "notification_update_content_3_v3_1_0": {
+      "message": "i naprawiono błąd w screencast"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Informacje\u003C/strong> Przewijanie dotykowe nie jest dostępne w tym symulatorze, ale możesz \u003Cstrong>wyświetlić pasek przewijania\u003C/strong> , jeśli nie masz kółka myszy ani gładzika do przewijania.\u003Cbr>\u003Cbr> Jest to opcja w ustawieniach w prawym dolnym rogu \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_0_0": {
+      "message": "Zaktualizuj v3.0"
+   },
+   "notification_update_title_v3_1_0": {
+      "message": "Zaktualizuj v3.1"
+   },
+   "notification_update_title_v3_2_0": {
+      "message": "Aktualizacja v3.2\u003Cbr/> Czy można teraz zrobić zrzut ekranu \u003Ci class='mdi'>&#xe903;\u003C/i> \u003Cstrong>bez ramki mobilnej?\u003C/strong>"
+   },
+   "notification_update_title_v3_3_1": {
+      "message": "\u003Cstrong>Aktualizacja v3.3\u003C/strong>\u003Cbr/> Czy można teraz aktywować \u003Cstrong>tryb nocny \u003Ci class='mdi'>\u003C/i>\u003C/strong> i zastąpić kolor tła w ustawieniach \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_4_0": {
+      "message": "\u003Cstrong>Aktualizacja v3.4\u003C/strong>\u003Cbr/> Czy można teraz tworzyć \u003Cstrong>zrzuty ekranu na całej stronie \u003Ci class='mdi'>\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_4_1": {
+      "message": "\u003Cstrong>Aktualizacja v3.4\u003C/strong>\u003Cbr/> Naprawiony błąd dotyczący \u003Cstrong>jakości zrzutów ekranu \u003Ci class='mdi'>\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_5_0": {
+      "message": "\u003Cstrong>Zaktualizuj v3.5\u003C/strong>\u003Cbr/> \u003Cstrong>7 nowych najnowszych urządzeń\u003C/strong> (2 w wersji PRO) \u003Ci class='mdi'>\u003C/i> + naprawa błędu w funkcji zrzutów ekranu"
+   },
+   "notification_update_title_v3_5_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizacja v3.5\u003C/strong> Możesz teraz bezpłatnie pobrać \u003Cstrong>przezroczyste makiety\u003C/strong> urządzeń w formacie PNG.\u003Cbr> Znajdź przycisk informacji w menu po prawej stronie."
+   },
+   "notification_update_title_v3_5_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Wskazówka\u003C/strong> Symulator można aktywować na \u003Cstrong>plikach lokalnych (file:///)\u003C/strong> . Kliknij poniżej, aby ręcznie aktywować opcję."
+   },
+   "notification_update_title_v3_6_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Zaktualizuj v3.6\u003C/strong> 3 nowe najnowsze urządzenia (w wersji PRO). Samsung Galaxy S22, S22+ i S22 \u003Ci class='mdi'>ULTRA\u003C/i>"
+   },
+   "notification_update_title_v3_6_4": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Zaktualizuj v3.6\u003C/strong> 3 nowe urządzenia, Samsung Galaxy A12 i inne specjalne urządzenia \u003Ci class='mdi'>\u003C/i> i poprawki błędów."
+   },
+   "notification_update_title_v3_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizacja v3.7\u003C/strong> Możliwość zmiany \u003Cstrong>domyślnego urządzenia,\u003C/strong> gdy symulator jest aktywowany w ustawieniach \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizacja v3.8\u003C/strong> Odkryj 4 nowe iPhone 14 (w wersji PRO) \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old_mobile_first": {
+      "message": "Automatyczny start. Jeśli ta opcja jest aktywna, podczas uruchamiania symulatora w domenie, za każdym razem, gdy otworzysz nową zakładkę na tej stronie, symulator będzie włączony."
+   },
+   "others": {
+      "message": "Promocje"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktywuj opcję"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Ten symulator nie może być domyślnie aktywowany w plikach lokalnych (file:///), ale możesz ręcznie aktywować opcję na stronie ustawień Chrome."
+   },
+   "popup_message": {
+      "message": "Zmień urządzenie i znajdź wszystkie opcje, korzystając z menu po prawej stronie symulatora"
+   },
+   "popup_site_incompatible": {
+      "message": "Tego symulatora nie można aktywować na tej natywnej stronie Chrome. Wypróbuj na innej karcie. Lub przeglądaj witrynę i uruchom ją ponownie."
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_annee": {
+      "message": "rok"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Nieograniczone screencasty"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Usuń reklamy"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Rozliczanie roczne"
+   },
+   "pro_modale_button": {
+      "message": "subskrybuję"
+   },
+   "pro_modale_from": {
+      "message": "Od"
+   },
+   "pro_modale_h1": {
+      "message": "Zostań PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Usuń reklamy"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Symuluj wszystkie urządzenia"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Osiągnąłeś limit 5 screencastów dziennie"
+   },
+   "pro_modale_h2": {
+      "message": "Zostań PRO i aktywnie wesprzyj rozwój tego rozszerzenia, wspierając jego programistę."
+   },
+   "pro_modale_link_1": {
+      "message": "Lub"
+   },
+   "pro_modale_link_2": {
+      "message": "loguję się w"
+   },
+   "pro_modale_link_3": {
+      "message": "na moje subskrybowane konto"
+   },
+   "pro_modale_recurring_month": {
+      "message": "miesiąc"
+   },
+   "pro_modale_recurring_month_1": {
+      "message": "miesiąc"
+   },
+   "pro_modale_recurring_month_2": {
+      "message": "Miesięczny"
+   },
+   "pro_modale_recurring_year_1": {
+      "message": "rok"
+   },
+   "pro_modale_recurring_year_2": {
+      "message": "Rocznie"
+   },
+   "pro_modale_savings": {
+      "message": "Zapisać"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "Czy poleciłbyś to rozszerzenie?"
+   },
+   "review_note_feedback": {
+      "message": "Dziękujemy za Twoją opinię, wyślij nam wiadomość, abyśmy mogli ulepszyć to rozszerzenie."
+   },
+   "review_note_store": {
+      "message": "Dziękujemy za Twoją opinię, możesz dodać opinię w Google Store. Byłbym bardzo wdzięczny 😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "Wystąpił błąd podczas screencastu. Spróbuj ponownie na innej karcie."
+   },
+   "screencast_generation": {
+      "message": "Trwa tworzenie GIF"
+   },
+   "screencast_modale_contact": {
+      "message": "Zgłoś błąd, sugestię, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Kopiuj"
+   },
+   "screencast_modale_download": {
+      "message": "Pobierać"
+   },
+   "screencast_modale_texte": {
+      "message": "Możesz udostępnić link do tego GIF-a każdemu lub bezpośrednio go pobrać."
+   },
+   "screencast_modale_title": {
+      "message": "Prezentacja ekranu"
+   },
+   "screencast_modale_upload": {
+      "message": "Prześlij na serwer i uzyskaj link do udostępniania"
+   },
+   "screencast_onboarding_close": {
+      "message": "Blisko"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Utwórz mobilny film w formacie GIF za pomocą 1 kliknięcia (maks. 20 sekund)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Prezentacja ekranu"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "Zrzut ekranu z ramką mobilną"
+   },
+   "screenshot_menu_2": {
+      "message": "Zrzut ekranu bez ramki mobilnej"
+   },
+   "screenshot_menu_3": {
+      "message": "Zrzut ekranu na całej stronie"
+   },
+   "screenshot_modale_help": {
+      "message": "Aby zapisać obraz w dobrej rozdzielczości, wystarczy kliknąć prawym przyciskiem myszy, a następnie „Kopiuj obraz” lub „Zapisz obraz jako”"
+   },
+   "screenshot_modale_title": {
+      "message": "Zrzut ekranu"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_change_analytics": {
+      "message": "Wspieram programistę tego rozszerzenia w ulepszaniu jego produktu dzięki Google Analytics. Dane są anonimowe."
+   },
+   "settings_change_background": {
+      "message": "Zmień kolor tła"
+   },
+   "settings_change_cursor": {
+      "message": "Nie zmieniaj stylu kursora w widoku sieciowym"
+   },
+   "settings_default_device": {
+      "message": "Domyślne urządzenie każdej nowej aktywacji"
+   },
+   "settings_device_hide": {
+      "message": "Ukryj urządzenie"
+   },
+   "settings_hide_header_footer": {
+      "message": "Ukryj nagłówek i stopkę przeglądarki w widoku sieciowym (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Nie wyświetlaj fałszywej klawiatury"
+   },
+   "settings_scrollbar_show": {
+      "message": "Pokaż natywny pasek przewijania w urządzeniu (jeśli nie masz gładzika lub kółka myszy)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "To rozszerzenie jest dla Ciebie przydatne?"
+   },
+   "sharing_h2": {
+      "message": "Więc podziel się nim z kolegami lub przyjaciółmi"
+   },
+   "sharing_review_1": {
+      "message": "A jeśli masz chwilę na…"
+   },
+   "sharing_review_2": {
+      "message": "dodać recenzję"
+   },
+   "sharing_review_3": {
+      "message": "Byłbym bardzo wdzięczny 🙂"
+   },
+   "sharing_review_button": {
+      "message": "dodaję opinię"
+   },
+   "sharing_txt": {
+      "message": "Symulator do testowania witryny na smartfonie i tablecie"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "To fałszywy element. Użyj własnej klawiatury."
+   },
+   "simulator_header_info": {
+      "message": "To fałszywy element. Aby zmienić adres URL, użyj pola tekstowego Chrome na górze."
+   },
+   "smartphone": {
+      "message": "Smartfony"
+   },
+   "tablet": {
+      "message": "Tablety"
+   }
+}

@@ -1,0 +1,14 @@
+2022/11/08-19:32:05.596 86a5 Reusing MANIFEST /home/syaorin/.config/Caprine/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/08-19:32:05.596 86a5 Recovering log #18
+2022/11/08-19:32:05.596 86a5 Reusing old log /home/syaorin/.config/Caprine/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000018.log 
+2022/11/08-19:32:05.596 86a5 Delete type=2 #16
+2022/11/08-19:32:12.295 86a9 Level-0 table #23: started
+2022/11/08-19:32:12.297 86a9 Level-0 table #23: 964 bytes OK
+2022/11/08-19:32:12.300 86a9 Delete type=0 #18
+2022/11/08-19:32:12.301 86a9 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 470 : 1
+2022/11/08-19:32:12.301 86a9 Compacting 1@0 + 1@1 files
+2022/11/08-19:32:12.302 86a9 Generated table #24@0: 24 keys, 646 bytes
+2022/11/08-19:32:12.302 86a9 Compacted 1@0 + 1@1 files => 646 bytes
+2022/11/08-19:32:12.305 86a9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/08-19:32:12.305 86a9 Delete type=2 #23
+2022/11/08-19:32:12.305 86a9 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 470 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

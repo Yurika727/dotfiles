@@ -7,13 +7,13 @@ local config = {
         section_separators = '',
         theme = {
             normal = {
-                a = { fg = colors.fg, bg = colors.bg_dark },
-                x = { fg = colors.fg, bg = colors.bg_dark },
+                a= { fg = colors.gray, bg = colors.outerbg, gui = "bold" },
+                x = { fg = colors.gray, bg = colors.outerbg, gui = "bold" },
             },
             inactive = {
-                a = { fg = colors.fg, bg = colors.bg_dark },
-                x = { fg = colors.fg, bg = colors.bg_dark },
-            },
+                a = { fg = colors.gray, bg = colors.outerbg, gui = "bold" },
+                x = { fg = colors.gray, bg = colors.outerbg, gui = "bold" },
+           },
         },
         ignore_focus = {
             'NvimTree',

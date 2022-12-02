@@ -1,0 +1,404 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>\u003C/i> एंड्रॉइड स्मार्टफोन"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>एप्पल\u003C/i> स्मार्टफोन"
+   },
+   "autoStart": {
+      "message": "ऑटो स्टार्ट। यदि यह विकल्प सक्रिय है, जब आप किसी डोमेन पर सिम्युलेटर शुरू करेंगे, तो हर बार जब आप इस वेबसाइट पर एक नया टैब खोलेंगे तो सिम्युलेटर चालू होगा।"
+   },
+   "button_feedback": {
+      "message": "कोई समीक्षा जोड़ें"
+   },
+   "button_message": {
+      "message": "हमें एक संदेश भेजें"
+   },
+   "close": {
+      "message": "बंद करे"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "इस पृष्ठ पर मोबाइल दृश्य सक्रिय करें"
+   },
+   "copie": {
+      "message": "प्रतिलिपि"
+   },
+   "extDescription": {
+      "message": "मोबाइल उत्तरदायी वेबसाइटों का परीक्षण करने के लिए कई मॉडलों के साथ कंप्यूटर पर स्मार्टफोन और टैबलेट सिम्युलेटर।"
+   },
+   "extName": {
+      "message": "मोबाइल सिम्युलेटर - उत्तरदायी परीक्षण उपकरण"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "रद्द करें"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "नई विंडो में डिवाइस जोड़ें"
+   },
+   "menu_change_device": {
+      "message": "डिवाइस बदलें"
+   },
+   "menu_close_alone": {
+      "message": "सिम्युलेटर को निष्क्रिय करें"
+   },
+   "menu_close_multi": {
+      "message": "खिड्की बंद करो"
+   },
+   "menu_help_center": {
+      "message": "सहायता केंद्र"
+   },
+   "menu_info_device": {
+      "message": "इस फोन की विशेषताएं (व्यूपोर्ट रिज़ॉल्यूशन, आदि)"
+   },
+   "menu_info_device_features": {
+      "message": "सुविधाएँ (व्यूपोर्ट रिज़ॉल्यूशन, आदि)"
+   },
+   "menu_info_device_mockup": {
+      "message": "मुक्त PNG पारदर्शी नकली"
+   },
+   "menu_report": {
+      "message": "एक बग रिपोर्ट करो"
+   },
+   "menu_rotate": {
+      "message": "अभिविन्यास बदलें"
+   },
+   "menu_screencast": {
+      "message": "एक स्क्रीनकास्ट लें (GIF)"
+   },
+   "menu_screenshot": {
+      "message": "कोई स्क्रीनशॉट लें"
+   },
+   "menu_send_improvement": {
+      "message": "सुधार का सुझाव दें"
+   },
+   "menu_send_message": {
+      "message": "एक संदेश भेजो"
+   },
+   "menu_settings": {
+      "message": "समायोजन"
+   },
+   "menu_share": {
+      "message": "किसी सहकर्मी, मित्र, के साथ साझा करें..."
+   },
+   "menu_theme_day": {
+      "message": "दिन मोड सक्रिय करें"
+   },
+   "menu_theme_night": {
+      "message": "नाइट मोड को सक्रिय करें"
+   },
+   "menu_vote_feature": {
+      "message": "अपनी पसंद की सुविधाओं के लिए वोट करें"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_14_h1": {
+      "message": "सबसे पहले (वस्तुतः) iPhone 14 PRO का उपयोग करें"
+   },
+   "notification_update_content_1": {
+      "message": "नए विशेष उपकरण (ऐप्पल वॉच सीरी 6, सैमसंग स्मार्ट टीवी) लेकिन यह भी"
+   },
+   "notification_update_content_1_v3_0_0": {
+      "message": "दाईं ओर सभी एक्शन बटन के साथ नया इंटरफ़ेस। होने की क्षमता"
+   },
+   "notification_update_content_1_v3_1_0": {
+      "message": "दाईं ओर सभी एक्शन बटन के साथ नया इंटरफ़ेस। होने की क्षमता"
+   },
+   "notification_update_content_2": {
+      "message": "वनप्लस नॉर्ड 2 और आईपैड प्रो 11"
+   },
+   "notification_update_content_2_v3_0_0": {
+      "message": "टैब द्वारा विभिन्न डिवाइस"
+   },
+   "notification_update_content_2_v3_1_0": {
+      "message": "टैब द्वारा विभिन्न डिवाइस"
+   },
+   "notification_update_content_3": {
+      "message": ""
+   },
+   "notification_update_content_3_v3_0_0": {
+      "message": ""
+   },
+   "notification_update_content_3_v3_1_0": {
+      "message": ""
+   },
+   "notification_update_title": {
+      "message": "अद्यतन"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>सूचना\u003C/strong> टच स्क्रॉल इस सिम्युलेटर में उपलब्ध नहीं है, लेकिन यदि आपके पास स्क्रॉल करने के लिए माउसव्हील या ट्रैकपैड नहीं है तो आप \u003Cstrong>स्क्रॉलबार प्रदर्शित\u003C/strong> कर सकते हैं।\u003Cbr>\u003Cbr> यह नीचे दाईं \u003Ci class='mdi'>ओर\u003C/i> सेटिंग में एक विकल्प है"
+   },
+   "notification_update_title_v3_0_0": {
+      "message": "अपडेट v3.0"
+   },
+   "notification_update_title_v3_1_0": {
+      "message": "अद्यतन v3.1"
+   },
+   "notification_update_title_v3_2_0": {
+      "message": "अद्यतन v3.2\u003Cbr/> यह अब \u003Cstrong>मोबाइल फ्रेम के बिना\u003C/strong> एक स्क्रीनशॉट \u003Ci class='mdi'>&#xe903;\u003C/i> करने के लिए संभव है"
+   },
+   "notification_update_title_v3_3_1": {
+      "message": "\u003Cstrong>अद्यतन v3.3\u003C/strong>\u003Cbr/> यह अब \u003Cstrong>रात मोड\u003C/strong> सक्रिय \u003Cstrong>\u003Ci class='mdi'>\u003C/i>\u003C/strong> और सेटिंग में पृष्ठभूमि रंग ओवरराइड करने के लिए संभव है \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_4_0": {
+      "message": "\u003Cstrong>अद्यतन v3.4\u003C/strong>\u003Cbr/> यह अब \u003Cstrong>पूरे पृष्ठ का स्क्रीनशॉट\u003C/strong> बनाने के लिए संभव है \u003Cstrong>\u003Ci class='mdi'>\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_4_1": {
+      "message": "\u003Cstrong>अद्यतन v3.4\u003C/strong>\u003Cbr/> \u003Cstrong>स्क्रीनशॉट की गुणवत्ता के\u003C/strong> बारे में बग फिक्स \u003Cstrong>\u003Ci class='mdi'>\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_5_0": {
+      "message": "\u003Cstrong>अपडेट v3.5\u003C/strong>\u003Cbr/> \u003Cstrong>7 नए हाल उपकरणों\u003C/strong> (प्रो संस्करण में 2) स्क्रीनशॉट सुविधा पर \u003Ci class='mdi'>\u003C/i> + बग समाधान"
+   },
+   "notification_update_title_v3_5_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>अद्यतन v3.5\u003C/strong> अब आप उपकरणों \u003Cstrong>के पारदर्शी पीएनजी मॉकअप\u003C/strong> मुफ्त में डाउनलोड कर सकते हैं।\u003Cbr> दाईं ओर मेनू में जानकारी बटन ढूंढें।"
+   },
+   "notification_update_title_v3_5_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>युक्ति\u003C/strong> आप सिमुलेटर को स्थानीय फ़ाइलों पर सक्रिय कर सकते हैं \u003Cstrong>(फ़ाइल: ///)\u003C/strong> । विकल्प को मैन्युअल रूप से सक्रिय करने के लिए नीचे क्लिक करें।"
+   },
+   "notification_update_title_v3_6_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>अद्यतन v3.6\u003C/strong> 3 नए हाल के उपकरण (प्रो संस्करण में)। सैमसंग गैलेक्सी S22, S22+ और \u003Ci class='mdi'>S22\u003C/i> अल्ट्रा"
+   },
+   "notification_update_title_v3_6_4": {
+      "message": "\u003Cstrong class='mb-2 is-block'>अपडेट v3.6\u003C/strong> 3 नए डिवाइस, सैमसंग गैलेक्सी ए12 और अन्य विशेष डिवाइस \u003Ci class='mdi'>\u003C/i> और बग फिक्स।"
+   },
+   "notification_update_title_v3_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>अद्यतन v3.7\u003C/strong> \u003Ci class='mdi'>सेटिंग्स\u003C/i> में सिम्युलेटर सक्रिय होने पर \u003Cstrong>डिफ़ॉल्ट डिवाइस\u003C/strong> को बदलने की क्षमता"
+   },
+   "notification_update_title_v3_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>अद्यतन v3.8\u003C/strong> \u003Ci class='mdi'>4\u003C/i> नए iPhone 14 की खोज करें (PRO संस्करण में)"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old_mobile_first": {
+      "message": "ऑटो स्टार्ट। यदि यह विकल्प सक्रिय है, जब आप किसी डोमेन पर सिम्युलेटर शुरू करेंगे, तो हर बार जब आप इस वेबसाइट पर एक नया टैब खोलेंगे तो सिम्युलेटर चालू होगा।"
+   },
+   "others": {
+      "message": "स्पेशल"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "विकल्प को सक्रिय करें"
+   },
+   "popup_activate_local_files_info": {
+      "message": "यह सिम्युलेटर स्थानीय फ़ाइलों (फ़ाइल: ///) पर डिफ़ॉल्ट रूप से सक्रिय नहीं किया जा सकता है, लेकिन आप मैन्युअल रूप से क्रोम सेटिंग पृष्ठ में विकल्प को सक्रिय कर सकते हैं।"
+   },
+   "popup_message": {
+      "message": "उपकरणों का परिवर्तन और सिम्युलेटर के दाईं ओर मेनू का उपयोग करके सभी विकल्प खोजें"
+   },
+   "popup_site_incompatible": {
+      "message": "ले सिम्युलेटर एन'एस्ट पास एक्टिवेबल सुर सेटे पेज एन पार्टिकुलियर"
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_annee": {
+      "message": "वर्ष"
+   },
+   "pro_modale_avantage_1": {
+      "message": "असीमित स्क्रीनकास्ट"
+   },
+   "pro_modale_avantage_2": {
+      "message": "विज्ञापन हटाएँ"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "सालाना बिल किया"
+   },
+   "pro_modale_button": {
+      "message": "मैं सदस्यता लेता हूँ"
+   },
+   "pro_modale_from": {
+      "message": "से"
+   },
+   "pro_modale_h1": {
+      "message": "एक पेशेवर बनें"
+   },
+   "pro_modale_h1_ads": {
+      "message": "विज्ञापन हटाएँ"
+   },
+   "pro_modale_h1_devices": {
+      "message": "सभी उपकरणों का अनुकरण करें"
+   },
+   "pro_modale_h1_limit": {
+      "message": "आप प्रति दिन 5 स्क्रीनकास्ट की सीमा तक पहुंच गए हैं"
+   },
+   "pro_modale_h2": {
+      "message": "एक पीआरओ बनें और इसके डेवलपर का समर्थन करके इस एक्सटेंशन के विकास में सक्रिय रूप से योगदान दें।"
+   },
+   "pro_modale_link_1": {
+      "message": "या"
+   },
+   "pro_modale_link_2": {
+      "message": "मैं लॉगिन करता हूँ"
+   },
+   "pro_modale_link_3": {
+      "message": "मेरे सब्स्क्राइब्ड खाते में"
+   },
+   "pro_modale_recurring_month": {
+      "message": "महीना"
+   },
+   "pro_modale_recurring_month_1": {
+      "message": "महीना"
+   },
+   "pro_modale_recurring_month_2": {
+      "message": "महीने के"
+   },
+   "pro_modale_recurring_year_1": {
+      "message": "वर्ष"
+   },
+   "pro_modale_recurring_year_2": {
+      "message": "सालाना"
+   },
+   "pro_modale_savings": {
+      "message": "सहेजें"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "क्या आप इस एक्सटेंशन की सिफारिश करेंगे?"
+   },
+   "review_note_feedback": {
+      "message": "आपकी प्रतिक्रिया के लिए धन्यवाद, बेझिझक हमें एक संदेश भेजें ताकि हम इस एक्सटेंशन को बेहतर बना सकें।"
+   },
+   "review_note_store": {
+      "message": "आपकी प्रतिक्रिया के लिए धन्यवाद, Google स्टोर पर एक समीक्षा जोड़ने के लिए स्वतंत्र महसूस करें। मैं बहुत आभारी रहूंगा"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "स्क्रीनकास्ट के दौरान एक त्रुटि हुई है। किसी अन्य टैब पर पुन: प्रयास करें।"
+   },
+   "screencast_generation": {
+      "message": "GIF का निर्माण जारी"
+   },
+   "screencast_modale_contact": {
+      "message": "बग की रिपोर्ट करें, एक सुझाव,..."
+   },
+   "screencast_modale_copy": {
+      "message": "प्रतिलिपि"
+   },
+   "screencast_modale_download": {
+      "message": "डाउनलोड"
+   },
+   "screencast_modale_texte": {
+      "message": "आप इस GIF का लिंक किसी को भी शेयर कर सकते हैं या सीधे डाउनलोड कर सकते हैं।"
+   },
+   "screencast_modale_title": {
+      "message": "स्क्रीनकास्ट"
+   },
+   "screencast_modale_upload": {
+      "message": "सर्वर पर अपलोड करें और शेयर लिंक प्राप्त करें"
+   },
+   "screencast_onboarding_close": {
+      "message": "बंद करे"
+   },
+   "screencast_onboarding_texte": {
+      "message": "1 क्लिक (अधिकतम 20 सेकंड) में GIF प्रारूप में एक मोबाइल वीडियो बनाएं"
+   },
+   "screencast_onboarding_title": {
+      "message": "स्क्रीनकास्ट"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshotHelp": {
+      "message": "चित्र को एक अच्छे रिज़ॉल्यूशन के साथ सहेजने के लिए, आप बस उस पर एक दायाँ क्लिक कर सकते हैं, फिर \"छवि की प्रतिलिपि बनाएँ\", या \"छवि को इस रूप में सहेजें\""
+   },
+   "screenshot_menu_1": {
+      "message": "मोबाइल फ्रेम के साथ स्क्रीनशॉट"
+   },
+   "screenshot_menu_2": {
+      "message": "मोबाइल फ्रेम के बिना स्क्रीनशॉट"
+   },
+   "screenshot_menu_3": {
+      "message": "पूरे पेज का स्क्रीनशॉट"
+   },
+   "screenshot_modale_help": {
+      "message": "चित्र को एक अच्छे रिज़ॉल्यूशन के साथ सहेजने के लिए, आप बस उस पर राइट क्लिक कर सकते हैं, फिर \"छवि की प्रतिलिपि बनाएँ\", या \"छवि को इस रूप में सहेजें\""
+   },
+   "screenshot_modale_title": {
+      "message": "स्क्रीनशॉट"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_change_analytics": {
+      "message": "मैं Google Analytics की बदौलत इस एक्सटेंशन के डेवलपर को उसके उत्पाद को बेहतर बनाने का समर्थन करता हूं। डेटा गुमनाम है।"
+   },
+   "settings_change_background": {
+      "message": "पृष्ठभूमि का रंग बदलें"
+   },
+   "settings_change_cursor": {
+      "message": "वेबव्यू में कर्सर शैली न बदलें"
+   },
+   "settings_default_device": {
+      "message": "प्रत्येक नए सक्रियण का डिफ़ॉल्ट उपकरण"
+   },
+   "settings_device_hide": {
+      "message": "डिवाइस छुपाएं"
+   },
+   "settings_hide_header_footer": {
+      "message": "वेबव्यू (PWA) में ब्राउज़र हेडर और फ़ुटर छिपाएँ"
+   },
+   "settings_hide_keyboard": {
+      "message": "नकली कीबोर्ड प्रदर्शित न करें"
+   },
+   "settings_scrollbar_show": {
+      "message": "डिवाइस में मूल स्क्रॉलबार दिखाएं (यदि आपके पास ट्रैकपैड या मूसव्हील नहीं है)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "यह एक्सटेंशन आपके लिए उपयोगी है?"
+   },
+   "sharing_h2": {
+      "message": "तो इसे अपने सहकर्मियों या दोस्तों के साथ साझा करें"
+   },
+   "sharing_review_1": {
+      "message": "और अगर आपके पास एक मिनट है"
+   },
+   "sharing_review_2": {
+      "message": "कोई समीक्षा जोड़ें"
+   },
+   "sharing_review_3": {
+      "message": "मैं आपका बहुत आभारी रहूंगा"
+   },
+   "sharing_review_button": {
+      "message": "मैं एक समीक्षा जोड़ता हूं"
+   },
+   "sharing_txt": {
+      "message": "स्मार्टफोन और टैबलेट पर आपकी साइट का परीक्षण करने के लिए सिम्युलेटर"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "यह एक नकली तत्व है। अपने खुद के कीबोर्ड का प्रयोग करें।"
+   },
+   "simulator_header_info": {
+      "message": "यह एक नकली तत्व है। यूआरएल बदलने के लिए बस शीर्ष पर क्रोम टेक्स्ट फ़ील्ड का उपयोग करें।"
+   },
+   "smartphone": {
+      "message": "स्मार्टफोन्स"
+   },
+   "tablet": {
+      "message": "गोलियाँ"
+   }
+}

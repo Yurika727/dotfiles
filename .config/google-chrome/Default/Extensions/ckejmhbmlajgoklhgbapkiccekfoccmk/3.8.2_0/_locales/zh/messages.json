@@ -1,0 +1,386 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>\u003C/i>安卓智能手机"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>\u003C/i>苹果智能手机"
+   },
+   "button_feedback": {
+      "message": "添加评论"
+   },
+   "button_message": {
+      "message": "给我们发信息"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "激活此页面上的移动视图"
+   },
+   "copie": {
+      "message": "复制"
+   },
+   "extDescription": {
+      "message": "具有多种模型的计算机上的智能手机和平板电脑模拟器来测试移动响应式网站。"
+   },
+   "extName": {
+      "message": "移动模拟器——响应式测试工具"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "取消"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "在新窗口中添加设备"
+   },
+   "menu_change_device": {
+      "message": "更换设备"
+   },
+   "menu_close_alone": {
+      "message": "停用模拟器"
+   },
+   "menu_close_multi": {
+      "message": "关闭此窗口"
+   },
+   "menu_help_center": {
+      "message": "帮助中心"
+   },
+   "menu_info_device": {
+      "message": "这款手机的特点（视口分辨率等）"
+   },
+   "menu_info_device_features": {
+      "message": "特性（视口分辨率等）"
+   },
+   "menu_info_device_mockup": {
+      "message": "免费PNG透明样机"
+   },
+   "menu_report": {
+      "message": "报告错误"
+   },
+   "menu_rotate": {
+      "message": "改变方向"
+   },
+   "menu_screencast": {
+      "message": "截屏 (GIF)"
+   },
+   "menu_screenshot": {
+      "message": "截图"
+   },
+   "menu_send_improvement": {
+      "message": "提出改进建议"
+   },
+   "menu_send_message": {
+      "message": "发送消息"
+   },
+   "menu_settings": {
+      "message": "设置"
+   },
+   "menu_share": {
+      "message": "与同事、朋友、..."
+   },
+   "menu_theme_day": {
+      "message": "开启白天模式"
+   },
+   "menu_theme_night": {
+      "message": "开启夜间模式"
+   },
+   "menu_vote_feature": {
+      "message": "为您想要的功能投票"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_14_h1": {
+      "message": "成为第一个（几乎）使用 iPhone 14 PRO 的人"
+   },
+   "notification_update_content_1_v3_0_0": {
+      "message": "带有右侧所有操作按钮的新界面。有能力"
+   },
+   "notification_update_content_1_v3_1_0": {
+      "message": "PRO 版本的新 iPhone 13 (iOS 15)，"
+   },
+   "notification_update_content_2_v3_0_0": {
+      "message": "按选项卡的不同设备"
+   },
+   "notification_update_content_2_v3_1_0": {
+      "message": "iPhone 12 免费使用"
+   },
+   "notification_update_content_3_v3_0_0": {
+      "message": ""
+   },
+   "notification_update_content_3_v3_1_0": {
+      "message": "和错误修复截屏视频"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>信息\u003C/strong>触摸滚动在此模拟器中不可用，但如果您没有鼠标滚轮或触控板可滚动，您可以\u003Cstrong>显示滚动条\u003C/strong>。\u003Cbr>\u003Cbr>这是右下角设置中的一个选项\u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_0_0": {
+      "message": "更新 v3.0"
+   },
+   "notification_update_title_v3_1_0": {
+      "message": "更新 v3.1"
+   },
+   "notification_update_title_v3_2_0": {
+      "message": "更新 v3.2\u003Cbr/>现在可以在\u003Cstrong>没有移动框架的情况下\u003C/strong>\u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v3_3_1": {
+      "message": "\u003Cstrong>更新 v3.3\u003C/strong>\u003Cbr/>现在是否可以激活\u003Cstrong>夜间模式\u003Ci class='mdi'>\u003C/i>\u003C/strong>并覆盖设置中的背景颜色\u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_4_0": {
+      "message": "\u003Cstrong>更新 v3.4\u003C/strong>\u003Cbr/>现在可以创建\u003Cstrong>整页截图\u003Ci class='mdi'>吗\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_4_1": {
+      "message": "\u003Cstrong>更新 v3.4\u003C/strong>\u003Cbr/>修复\u003Cstrong>截图质量问题\u003Ci class='mdi'>\u003C/i>\u003C/strong>"
+   },
+   "notification_update_title_v3_5_0": {
+      "message": "\u003Cstrong>更新 v3.5\u003C/strong>\u003Cbr/> \u003Cstrong>7 款新设备\u003C/strong>（PRO 版中 2 款） \u003Ci class='mdi'>\u003C/i> + 屏幕截图功能错误修复"
+   },
+   "notification_update_title_v3_5_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>更新 v3.5\u003C/strong>您现在可以免费下载设备\u003Cstrong>的透明 PNG 模型。\u003C/strong>\u003Cbr>在右侧菜单中找到信息按钮。"
+   },
+   "notification_update_title_v3_5_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>提示\u003C/strong>您可以在\u003Cstrong>本地文件 (file:///)\u003C/strong>上激活模拟器。单击下面以手动激活该选项。"
+   },
+   "notification_update_title_v3_6_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>更新 v3.6\u003C/strong> 3 新的最新设备（在 PRO 版本中）。三星 Galaxy S22、S22+ 和 S22 ULTRA \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_6_4": {
+      "message": "\u003Cstrong class='mb-2 is-block'>更新 v3.6\u003C/strong> 3 新设备，三星 Galaxy A12 和其他特殊设备\u003Ci class='mdi'>\u003C/i> & 错误修复。"
+   },
+   "notification_update_title_v3_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>更新 v3.7\u003C/strong>能够在设置中激活模拟器时更改\u003Cstrong>默认设备\u003C/strong>\u003Ci class='mdi'>\u003C/i>"
+   },
+   "notification_update_title_v3_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>更新v3.8\u003C/strong>发现4款新iPhone 14（PRO版） \u003Ci class='mdi'>\u003C/i>"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "old_mobile_first": {
+      "message": "自动开启。如果激活此选项，当您在域上启动模拟器时，每次您在此网站上打开一个新选项卡时，模拟器都会打开。"
+   },
+   "others": {
+      "message": "特价商品"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "激活选项"
+   },
+   "popup_activate_local_files_info": {
+      "message": "默认情况下无法在本地文件 (file:///) 上激活此模拟器，但您可以在 Chrome 设置页面中手动激活该选项。"
+   },
+   "popup_message": {
+      "message": "使用模拟器右侧的菜单更改设备并找到所有选项"
+   },
+   "popup_site_incompatible": {
+      "message": "无法在此原生 Chrome 页面上激活此模拟器。尝试另一个选项卡。或浏览网站并重新启动。"
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_annee": {
+      "message": "年"
+   },
+   "pro_modale_avantage_1": {
+      "message": "无限截屏"
+   },
+   "pro_modale_avantage_2": {
+      "message": "移除广告"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "每年计费"
+   },
+   "pro_modale_button": {
+      "message": "我订阅"
+   },
+   "pro_modale_from": {
+      "message": "从"
+   },
+   "pro_modale_h1": {
+      "message": "成为专业人士"
+   },
+   "pro_modale_h1_ads": {
+      "message": "移除广告"
+   },
+   "pro_modale_h1_devices": {
+      "message": "模拟所有设备"
+   },
+   "pro_modale_h1_limit": {
+      "message": "您已达到每天 5 个截屏视频的限制"
+   },
+   "pro_modale_h2": {
+      "message": "成为 PRO 并通过支持其开发人员积极为此扩展的开发做出贡献。"
+   },
+   "pro_modale_link_1": {
+      "message": "或者"
+   },
+   "pro_modale_link_2": {
+      "message": "我登录"
+   },
+   "pro_modale_link_3": {
+      "message": "到我订阅的帐户"
+   },
+   "pro_modale_recurring_month": {
+      "message": "月"
+   },
+   "pro_modale_recurring_month_1": {
+      "message": "月"
+   },
+   "pro_modale_recurring_month_2": {
+      "message": "每月"
+   },
+   "pro_modale_recurring_year_1": {
+      "message": "年"
+   },
+   "pro_modale_recurring_year_2": {
+      "message": "每年"
+   },
+   "pro_modale_savings": {
+      "message": "保存"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "你会推荐这个扩展吗？"
+   },
+   "review_note_feedback": {
+      "message": "感谢您的反馈，请随时向我们发送消息，以便我们改进此扩展程序。"
+   },
+   "review_note_store": {
+      "message": "感谢您的反馈，请随时在 Google 商店添加评论。我将不胜感激😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "截屏过程中出现错误。在另一个选项卡上重试。"
+   },
+   "screencast_generation": {
+      "message": "正在创建 GIF"
+   },
+   "screencast_modale_contact": {
+      "message": "报告错误，建议，..."
+   },
+   "screencast_modale_copy": {
+      "message": "复制"
+   },
+   "screencast_modale_download": {
+      "message": "下载"
+   },
+   "screencast_modale_texte": {
+      "message": "您可以将此 GIF 的链接分享给任何人或直接下载。"
+   },
+   "screencast_modale_title": {
+      "message": "截屏"
+   },
+   "screencast_modale_upload": {
+      "message": "上传到服务器并获取分享链接"
+   },
+   "screencast_onboarding_close": {
+      "message": "关闭"
+   },
+   "screencast_onboarding_texte": {
+      "message": "一键创建 GIF 格式的移动视频（最长 20 秒）"
+   },
+   "screencast_onboarding_title": {
+      "message": "截屏"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "带有移动框架的屏幕截图"
+   },
+   "screenshot_menu_2": {
+      "message": "没有移动框架的截图"
+   },
+   "screenshot_menu_3": {
+      "message": "整页截图"
+   },
+   "screenshot_modale_help": {
+      "message": "要以良好的分辨率保存图片，您只需右键单击它，然后“复制图像”或“将图像另存为”"
+   },
+   "screenshot_modale_title": {
+      "message": "截屏"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_change_analytics": {
+      "message": "感谢 Google Analytics，我支持此扩展程序的开发人员改进他的产品。数据是匿名的。"
+   },
+   "settings_change_background": {
+      "message": "更改背景颜色"
+   },
+   "settings_change_cursor": {
+      "message": "不要更改 webview 中的光标样式"
+   },
+   "settings_default_device": {
+      "message": "每次新激活的默认设备"
+   },
+   "settings_device_hide": {
+      "message": "隐藏设备"
+   },
+   "settings_hide_header_footer": {
+      "message": "在 webview (PWA) 中隐藏浏览器页眉和页脚"
+   },
+   "settings_hide_keyboard": {
+      "message": "不要显示假键盘"
+   },
+   "settings_scrollbar_show": {
+      "message": "在设备中显示本机滚动条（如果您没有触控板或鼠标滚轮）"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "这个扩展对你有用吗？"
+   },
+   "sharing_h2": {
+      "message": "所以分享给你的同事或朋友"
+   },
+   "sharing_review_1": {
+      "message": "如果你有时间"
+   },
+   "sharing_review_2": {
+      "message": "添加评论"
+   },
+   "sharing_review_3": {
+      "message": "我会非常感谢你🙂"
+   },
+   "sharing_review_button": {
+      "message": "我添加评论"
+   },
+   "sharing_txt": {
+      "message": "在智能手机和平板电脑上测试您的网站的模拟器"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "这是一个假元素。使用您自己的键盘。"
+   },
+   "simulator_header_info": {
+      "message": "这是一个假元素。要更改 URL，只需使用顶部的 Chrome 文本字段。"
+   },
+   "smartphone": {
+      "message": "智能手机"
+   },
+   "tablet": {
+      "message": "平板电脑"
+   }
+}

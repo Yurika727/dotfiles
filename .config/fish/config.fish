@@ -1,6 +1,8 @@
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+    starship init fish | source
+end
 set fish_greeting
-starship init fish | source
-fish_add_path $HOME/.cargo/bin
-alias v=nvim
-alias vi=neovide
-alias tree='colorls'
+alias vi neovide
+alias neo ./bin/sysfetch
+alias wifi ./bin/wifimenu

@@ -1,0 +1,14 @@
+2022-11-10T12:21:29.198Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-11-10T12:21:29.205Z - info: [ui] [AppStore] found account: Yurika727 (seggsyurika)
+2022-11-10T12:21:29.511Z - info: [ui] [BranchPruner] No branches to prune.
+2022-11-10T12:21:30.659Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2022-11-10T12:21:30.744Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.7-arch1-1)
+2022-11-10T12:21:30.747Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-11-10T12:21:31.668Z - info: [ui] Stats reported.
+2022-11-10T12:21:33.183Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.204s
+2022-11-10T12:21:33.399Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.084s)
+2022-11-10T12:21:34.492Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.085s)
+2022-11-10T12:21:36.358Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: yurika727.github.io - Yurika727 (has token)
+2022-11-10T12:21:39.148Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.775s)
+2022-11-10T12:21:40.179Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.027s)
+2022-11-10T12:21:41.298Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.116s)

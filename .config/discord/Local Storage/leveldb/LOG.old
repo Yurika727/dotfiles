@@ -1,0 +1,6 @@
+2022/12/01-18:10:26.864 258ee9 Reusing MANIFEST /home/syaorin/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/12/01-18:10:26.865 258ee9 Recovering log #492
+2022/12/01-18:10:26.866 258ee9 Reusing old log /home/syaorin/.config/discord/Local Storage/leveldb/000492.log 
+2022/12/01-18:12:32.804 2596d0 Level-0 table #496: started
+2022/12/01-18:12:32.825 2596d0 Level-0 table #496: 1258243 bytes OK
+2022/12/01-18:12:32.827 2596d0 Delete type=0 #492

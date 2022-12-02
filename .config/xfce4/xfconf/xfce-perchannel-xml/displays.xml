@@ -3,7 +3,7 @@
 <channel name="displays" version="1.0">
   <property name="ActiveProfile" type="string" value="Default"/>
   <property name="Default" type="empty">
-    <property name="eDP1" type="string" value="Laptop">
+    <property name="eDP-1" type="string" value="Laptop">
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="6729c0dfe17373f01c2ee675ed384e72cbb5a985"/>
       <property name="Resolution" type="string" value="1366x768"/>
@@ -22,7 +22,7 @@
     </property>
   </property>
   <property name="Fallback" type="empty">
-    <property name="eDP1" type="string" value="Laptop">
+    <property name="eDP-1" type="string" value="Laptop">
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="6729c0dfe17373f01c2ee675ed384e72cbb5a985"/>
       <property name="Resolution" type="string" value="1366x768"/>

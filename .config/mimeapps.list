@@ -1,0 +1,21 @@
+[Added Associations]
+text/plain=neovide.desktop;vim.desktop;
+image/jpeg=feh.desktop;org.xfce.ristretto.desktop;
+text/css=neovide.desktop;
+application/x-shellscript=kitty-open.desktop;
+
+[Default Applications]
+x-scheme-handler/„ºÌ‚U=„ºÌ‚U.desktop
+x-scheme-handler/XiØU=XiØU.desktop
+x-scheme-handler/®:²X=®:²X.desktop
+x-scheme-handler/£™EÏ,V=£™EÏ,V.desktop
+x-scheme-handler/VöÊIV=VöÊIV.desktop
+x-scheme-handler/à˜^=à˜^.desktop
+x-scheme-handler/ôªd=ôªd.desktop
+x-scheme-handler/C ò=C ò.desktop
+x-scheme-handler/¤‡Y=¤‡Y.desktop
+x-scheme-handler/1ÅìW=1ÅìW.desktop
+x-scheme-handler/=.desktop
+x-scheme-handler/0¡†=0¡†.desktop
+x-scheme-handler/‹˜.b=‹˜.b.desktop
+x-scheme-handler/Ð6×+~U=Ð6×+~U.desktop

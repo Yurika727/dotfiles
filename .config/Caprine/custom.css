@@ -1,0 +1,136 @@
+/*
+This is the custom styles file where you can add anything you want.
+The styles here will be injected into Caprine and will override default styles.
+If you want to disable styles but keep the config, just comment the lines that you don't want to be used.
+
+Here are some dark mode color variables to get you started.
+Edit them to change color scheme of Caprine.
+Press Command/Ctrl+R in Caprine to see your changes.
+*/
+
+/*
+:root {
+	--base: #000;
+	--base-ninety: rgba(255, 255, 255, 0.9);
+	--base-seventy-five: rgba(255, 255, 255, 0.75);
+	--base-seventy: rgba(255, 255, 255, 0.7);
+	--base-fifty: rgba(255, 255, 255, 0.5);
+	--base-fourty: rgba(255, 255, 255, 0.4);
+	--base-thirty: rgba(255, 255, 255, 0.3);
+	--base-twenty: rgba(255, 255, 255, 0.2);
+	--base-five: rgba(255, 255, 255, 0.05);
+	--base-ten: rgba(255, 255, 255, 0.1);
+	--base-nine: rgba(255, 255, 255, 0.09);
+	--container-color: #323232;
+	--container-dark-color: #282a36;
+	--list-header-color: #222;
+	--blue: #0084ff;
+	--selected-conversation-background: linear-gradient(hsla(209, 110%, 45%, 0.9), hsla(209, 110%, 42%, 0.9));
+}
+*/
+
+.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.g5gj957u.d2edcug0.hpfvmrgz.kud993qy.buofh1pr {
+margin-top: unset !important;
+}
+
+/* Scrollbar fixes. */
+::-webkit-scrollbar-track, ::-webkit-scrollbar, ::-webkit-scrollbar-corner {
+background-color: #44475a;
+}
+::-webkit-scrollbar {
+width: 10px;
+overflow-x: hidden;
+}
+body::-webkit-scrollbar {
+width: 0;
+}
+::-webkit-scrollbar-thumb {
+border-radius: 10px;
+background-color: #6272a4;
+background-clip: content-box;
+border: 1px solid transparent;
+}
+::-webkit-scrollbar-thumb:hover {
+background-color: #6272a4;
+}
+
+/* Dark theme from Ferdi user.css. /
+/ !important spam needed for the colors to actually work in Caprine. */
+:root, .__fb-light-mode, .__fb-dark-mode {
+--card-background: #282a36 !important;
+--comment-background: #44475a !important;
+--card-background-flat: #44475a !important;
+--disabled-button-background: #6272a4 !important;
+--divider: #44475a !important;
+--hosted-view-selected-state: #44475a !important;
+--hover-overlay: rgba(255, 255, 255, 0.05) !important;
+--media-inner-border: rgba(255, 255, 255, 0.1) !important;
+--messenger-card-background: #282a36 !important;
+--messenger-reply-background: #44475a !important;
+--overlay-alpha-80: rgba(41, 41, 41, 0.8) !important;
+--popover-background: #44475a !important;
+--primary-icon: #bd93f9 !important;
+--primary-text: #f8f8f2 !important;
+--scroll-thumb: #6272a4 !important;
+--secondary-button-background: #6272a4 !important;
+--secondary-icon: #6272a4 !important;
+--secondary-text: #bd93f9 !important;
+--shadow-1: rgba(0, 0, 0, 0.3) !important;
+--shadow-2: rgba(0, 0, 0, 0.4) !important;
+--shadow-5: rgba(0, 0, 0, 0.7) !important;
+--shadow-8: rgba(0, 0, 0, 1) !important;
+--shadow-inset: rgba(000, 000, 000, 0.5) !important;
+--surface-background: #282a36 !important;
+--wash: #44475a !important;
+--web-wash: #44475a !important;
+}
+
+body {
+color: #FF662A;
+}
+
+/* Delivered icon on left */
+.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.pfnyh3mw.d2edcug0.hpfvmrgz.aovydwv3.p8cu3f6v.kb5gq1qc.taijpn5t.b0upgy8r path, .l9j0dhe7.swg4t2nn path, .a8c37x1j.ms05siws.hwsy1cff.b7h9ocf4 path {
+fill: #ff79c6;
+}
+
+path[d="M0 36h36V0H0z"] {
+fill: none !important;
+}
+
+/* Icons */
+path[d="M18 30c-6.627 0-12-5.372-12-12 0-6.627 5.373-12 12-12 6.628 0 12 5.373 12 12 0 6.628-5.372 12-12 12zm5.294-16.707l-7.296 7.295-3.254-3.252c-.352-.353-.919-.439-1.323-.148a1 1 0 00-.128 1.522l3.998 3.997a1 1 0 001.414 0l8.002-8.001a1 1 0 10-1.413-1.413z"] {
+fill: #ff79c6;
+}
+
+.sp_o5t_XtHjhxN_1_5x {
+filter: invert(.8);
+}
+
+/* App download */
+.oajrlxb2.q2y6ezfg.gcieejh5.bn081pho.humdl8nn.izx4hr6d.rq0escxv.nhd2j8a9.j83agx80.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.d1544ag0.qt6c0cv9.tw6a2znq.i1ao9s8h.esuyzwwr.f1sip0of.lzcic4wl.l9j0dhe7.abiwlrkh.p8dawk7l.beltcj47.p86d2i9g.aot14ch1.kzx2olss.cbu4d94t.taijpn5t.ni8dbmo4.stjgntxs.k4urcfbm.tv7at329 {
+background: #50fa7b;
+}
+
+.sn0e7ne5 {
+box-shadow: rgba(0, 0, 0, 0.6) 0px 0px 2px;
+}
+
+/* Middle header */
+.bafdgad4 {
+box-shadow: 0 0 4px rgba(0,0,0,.7)
+}
+
+/* Pop-up close icon */
+.sp_GOPGoqMu6Pq_1_5x {
+filter: invert(.8);
+}
+
+/* Feedback icons */
+.sp_BQbKIpOzOAx_1_5x, .sp_a51jIvPl6dA_1_5x {
+filter: invert(.8);
+}
+/* Reacts */
+.tlilfck6 {
+box-shadow: 0 2px 4px var(--shadow-2);
+}

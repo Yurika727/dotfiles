@@ -1,13 +1,65 @@
-# Get editor completions based on the config schema
-"$schema" = 'https://starship.rs/config-schema.json'
-
-# Inserts a blank line between shell prompts
 add_newline = true
 
-# Replace the "\u276f" symbol in the prompt with "\u279c"
-[character] # The name of the module we are configuring is "character"
-success_symbol = "[\u279c](bold green)" # The "success_symbol" segment is being set to "\u279c" with the color "bold green"
+format = """
+($username)
+($directory)
+"""
 
-# Disable the package module, hiding it from the prompt completely
-[package]
+right_format = """$all"""
+
+
+[username]
+disabled = false
+show_always = true
+format = "󰊠 "
+style_user =" bold dimmed blue"
+
+[hostname]
+disabled = true
+ssh_only = false
+format =  "󰊠 "
+style = "bold dimmed blue"
+
+[directory]
+disabled = false
+truncation_length = 1
+home_symbol = "➞ "
+format = "[$path](bold cyan) "
+
+[character]
+success_symbol = ""
+error_symbol = "[](bold red)"
+
+[git_branch]
+symbol = " "
+style = "bold blue"
+
+[git_commit]
+commit_hash_length = 4
+tag_symbol = "🔖 "
+
+[git_state]
+format = '[\($state( $progress_current of $progress_total)\)]($style) '
+cherry_pick = "[🍒 PICKING](bold red)"
+
+[git_metrics]
+added_style = "bold blue"
+format = '[+$added]($added_style)/[-$deleted]($deleted_style) '
+
+[git_status]
+format = '([\[$all_status$ahead_behind\]]($style) )'
+style = "bold cyan"
+conflicted = "= "
+ahead = "⇡ ${count} "
+behind = "⇣ ${count} "
+diverged = "⇕ "
+up_to_date = ""
+untracked = "? "
+stashed = "$ "
+modified = "! "
+staged = '[++\($count\)](green)'
+renamed = "» "
+deleted = " "
+
+[cmd_duration]
 disabled = true

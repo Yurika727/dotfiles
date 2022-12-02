@@ -98,5 +98,7 @@ require('impatient').enable_profile()
 -- Which-key
 require('core.which-key')
 
+-- Incline
+require('core.incline')
 -- Key Mappings Which-key
 require('keymappings_wk')

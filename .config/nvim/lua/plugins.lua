@@ -38,6 +38,7 @@ require('packer').startup({
         -- file line
         use 'akinsho/bufferline.nvim'
         -- status line
+        use "b0o/incline.nvim"
         use 'nvim-lualine/lualine.nvim'
         -- find file
         use 'nvim-telescope/telescope.nvim'
@@ -83,7 +84,8 @@ require('packer').startup({
         use 'RRethy/vim-illuminate'
         -- Improve startup time for Neovim
         use 'lewis6991/impatient.nvim'
-
+        -- Discord presence
+        use 'andweeb/presence.nvim'
       if packer_bootstrap then
         require('packer').sync()
       end

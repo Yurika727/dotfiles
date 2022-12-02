@@ -1,0 +1,7 @@
+2022/11/22-13:07:30.490 6ae7f Reusing MANIFEST /home/syaorin/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/22-13:07:30.490 6ae7f Recovering log #31
+2022/11/22-13:07:30.490 6ae7f Reusing old log /home/syaorin/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000031.log 
+2022/11/22-13:07:35.015 6ae3f Level-0 table #36: started
+2022/11/22-13:07:35.017 6ae3f Level-0 table #36: 951 bytes OK
+2022/11/22-13:07:35.020 6ae3f Delete type=0 #31
+2022/11/22-13:07:35.020 6ae3f Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

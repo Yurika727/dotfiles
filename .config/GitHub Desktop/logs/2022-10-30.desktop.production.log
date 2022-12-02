@@ -1,0 +1,92 @@
+2022-10-30T07:46:26.429Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-10-30T07:46:26.436Z - info: [ui] [AppStore] found account: Yurika727 (seggsyurika)
+2022-10-30T07:46:26.601Z - info: [ui] [BranchPruner] No branches to prune.
+2022-10-30T07:46:27.108Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.5-arch1-1)
+2022-10-30T07:46:27.110Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-10-30T07:46:27.543Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2022-10-30T07:46:27.928Z - info: [ui] Stats reported.
+2022-10-30T07:46:29.953Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'syaorin@archlinux.(none)')
+
+2022-10-30T07:46:29.954Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.052s
+2022-10-30T07:46:31.839Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.041s)
+2022-10-30T07:46:32.855Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.014s)
+2022-10-30T07:46:43.724Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'syaorin@archlinux.(none)')
+
+2022-10-30T07:46:43.725Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.062s
+2022-10-30T07:47:15.003Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'syaorin@archlinux.(none)')
+
+2022-10-30T07:47:15.003Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.049s
+2022-10-30T07:47:19.587Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-10-30T07:47:19.592Z - info: [ui] [AppStore] found account: Yurika727 (seggsyurika)
+2022-10-30T07:47:19.621Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2022-10-30T07:47:19.672Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2022-10-30T07:47:20.342Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.5-arch1-1)
+2022-10-30T07:47:20.344Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-10-30T07:47:21.621Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'syaorin@archlinux.(none)')
+
+2022-10-30T07:47:21.622Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.051s
+2022-10-30T07:47:38.109Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-10-30T07:47:38.116Z - info: [ui] [AppStore] found account: Yurika727 (seggsyurika)
+2022-10-30T07:47:38.169Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2022-10-30T07:47:38.882Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.5-arch1-1)
+2022-10-30T07:47:38.883Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-10-30T07:47:39.074Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2022-10-30T07:47:39.506Z - info: [ui] [Timing] Action 'create commit' for 'Yurika727/yurika727.github.io' took 0.080s
+2022-10-30T07:47:42.448Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: yurika727.github.io - Yurika727 (has token)
+2022-10-30T07:47:44.226Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.744s)
