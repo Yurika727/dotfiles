@@ -1,0 +1,68 @@
+2023-01-22T09:43:28.864Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-01-22T09:43:29.042Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:29.052Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.7-arch1-1)
+2023-01-22T09:43:29.053Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-01-22T09:43:29.116Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:29.780Z - info: [ui] Opt in reported.
+2023-01-22T09:43:30.377Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-01-22T09:43:30.379Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-01-22T09:43:30.383Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=e7e1a2ba-9a13-4902-bf88-28bdf70b696c
+2023-01-22T09:43:30.393Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-01-22T09:43:33.661Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-01-22T09:43:35.052Z - info: [main] Received possible protocol arguments: 4
+2023-01-22T09:43:35.053Z - info: [main] Processing protocol url
+2023-01-22T09:43:35.054Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-01-22T09:43:35.480Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-01-22T09:43:36.415Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-01-22T09:43:37.076Z - info: [ui] [SignInStore] account resolved
+2023-01-22T09:43:37.077Z - info: [ui] [AppStore] adding account Yurika727 (syaorin) to store
+2023-01-22T09:43:37.091Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-01-22T09:43:37.184Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:37.596Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:37.669Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:38.861Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:40.444Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:41.176Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2023-01-22T09:43:41.177Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:42.884Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:43:43.296Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:50:27.836Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T09:50:28.490Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T10:03:02.899Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T10:03:03.245Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T10:03:04.679Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-01-22T10:55:43.766Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/Yurika727/dotfiles.git - Yurika727 (has token)
+2023-01-22T10:55:58.752Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-01-22T10:55:58.762Z - info: [ui] [AppStore] found account: Yurika727 (syaorin)
+2023-01-22T10:55:58.894Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.7-arch1-1)
+2023-01-22T10:55:58.902Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-01-22T10:55:59.665Z - info: [ui] Subscribed 'Yurika727' to Alive channel
+2023-01-22T10:55:59.782Z - info: [ui] Stats reported.
+2023-01-22T10:56:07.824Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/Yurika727/dotfiles.git - Yurika727 (has token)
+2023-01-22T10:59:25.179Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/Yurika727/dotfiles.git /home/syaorin/GitHub/dotfiles (took 197.352s)
+2023-01-22T10:59:25.211Z - info: [ui] [AppStore] adding repository at /home/syaorin/GitHub/dotfiles to store
+2023-01-22T11:04:37.677Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.038s)
+2023-01-22T11:13:03.133Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.8s of which 0.0s paused, total 1.8s
+2023-01-22T11:28:04.865Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 2.2s of which 0.0s paused, total 2.2s
+2023-01-22T11:35:33.480Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any of the parent directories): .git
+
+(The error was parsed as 28: This is not a git repository.)
+2023-01-22T11:35:33.504Z - error: [ui] `git rev-list --left-right --count main...origin/main --` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any of the parent directories): .git
+
+(The error was parsed as 28: This is not a git repository.)
+2023-01-22T11:35:34.301Z - error: [ui] Error performing periodic fetch for 'Yurika727/dotfiles'
+GitError: This is not a git repository.
+    at /home/syaorin/webpack:/[name]/app/src/lib/git/core.ts:247:11
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /home/syaorin/webpack:/[name]/app/src/lib/trampoline/trampoline-environment.ts:40:13
+    at /home/syaorin/webpack:/[name]/app/src/lib/trampoline/trampoline-tokens.ts:33:5
+    at ac (/home/syaorin/webpack:/[name]/app/src/lib/git/rev-list.ts:62:9)
+    at as.fetch (/home/syaorin/webpack:/[name]/app/src/lib/stores/git-store.ts:1002:14)
+    at /home/syaorin/webpack:/[name]/app/src/lib/stores/app-store.ts:4708:13
+    at Vn.withPushPullFetch (/home/syaorin/webpack:/[name]/app/src/lib/stores/app-store.ts:4252:5)
+    at Vn.performFetch (/home/syaorin/webpack:/[name]/app/src/lib/stores/app-store.ts:4691:5)
+    at fo.performAndScheduleFetch (/home/syaorin/webpack:/[name]/app/src/lib/stores/helpers/background-fetcher.ts:102:7)

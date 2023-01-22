@@ -7,8 +7,8 @@ require('keymappings')
 -- load plugin
 require('plugins')
 
--- Tokyonight
-require('core.tokyonight')
+-- Catppuccin theme
+require('core.catppuccin')
 
 -- nvim-tree
 require('core.nvim-tree')

@@ -91,6 +91,7 @@ local servers = {
     'cssls',
     'emmet_ls',
     'jsonls',
+    'sumneko_lua',
     'clangd'
 }
 

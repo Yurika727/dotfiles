@@ -9,7 +9,7 @@ require('bufferline').setup({
         offsets = {
             {
                 filetype = 'NvimTree',
-                text = 'Thunar',
+                text = 'NvimTree',
                 text_align = 'center',
                 highlight = 'Directory',
                 separator = true

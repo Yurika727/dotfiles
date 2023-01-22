@@ -1,0 +1,7 @@
+(defwidget net []
+  (button
+    :class "module icon"
+    :onclick "exec /home/syaorin/bin/wifimenu &"
+    :tooltip {net.essid}
+    :style "color: ${net.color};"
+    {net.icon}))

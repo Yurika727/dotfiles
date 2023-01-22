@@ -1,0 +1,119 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 0,
+    "modules-left": ["clock", "wlr/workspaces"],
+    "modules-center": ["custom/mpris"],
+    "modules-right": [
+        "tray",
+        "custom/caffeine",
+        "network",
+        "backlight",
+        "pulseaudio",
+        "battery"
+    ],
+    "hyprland/window": {
+        "format": "{}"
+    },
+    "wlr/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "on-click": "activate",
+        "format": "{icon}",
+        "persistent_workspaces": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": []
+        },
+        "format-icons": {
+            "default": "",
+            "urgent": "",
+            "focused": "",
+         }
+    },
+    "custom/caffeine": {
+        "exec": "~/.config/waybar/scripts/caffeine.sh",
+        "return-type": "json",
+        "tooltip" : false,
+        "on-click" : "eww open --toggle system-menu",
+        "interval": 3,
+        "format-icons": ["﯈", ""],
+        "format": "{icon}"
+    },
+    "tray": {
+        "icon-size": 13,
+        "spacing": 10
+    },
+    "backlight": {
+        "device": "intel_backlight",
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", ""],
+        "on-scroll-up": "brightnessctl set 1%+",
+        "on-scroll-down": "brightnessctl set 1%-",
+        "min-length": 6
+    },
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{icon} {capacity}%",
+
+        "tooltip" : false,
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", "", "", ""]
+    },
+    "clock": {
+        "format": "{: %R   %d/%m}",
+        "on-click": "eww open --toggle calendar",
+    },
+    "network": {
+        "format-wifi": "直 {essid}",
+        "format-ethernet": " {essid}",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "睊 Disconnected",
+        "tooltip" : false,
+        "on-click": "eww open --toggle system-menu"
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "ﱝ Muted",
+          "tooltip" : false,
+        "on-click": "/home/syaorin/.config/hypr/scripts/volume_ctl.sh mute",
+        "scroll-step": 1,
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", "墳", ""]
+        }
+    },
+    "custom/spotify" : { 
+       "exec": "/usr/bin/python3 /home/frigaut/bin/mediaplayer.py --player spotify",
+        "format": "{}  ",
+        "return-type": "json",
+        "on-click": "playerctl play-pause",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous"
+    },
+    "custom/mpris": {
+    "return-type": "json",
+    "exec": "waybar-mpris '{icon} {:artist:t5:{artist}:}{:artist: - :}{:t4:{title}:}'",
+    "on-click": "waybar-mpris --send toggle",
+    "on-click-right": "waybar-mpris --send player-next",
+    "escape": true,
+    },
+}

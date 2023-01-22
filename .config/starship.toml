@@ -11,13 +11,13 @@ right_format = """$all"""
 [username]
 disabled = false
 show_always = true
-format = "󰊠 "
+format = ""
 style_user =" bold dimmed blue"
 
 [hostname]
 disabled = true
 ssh_only = false
-format =  "󰊠 "
+format =  " "
 style = "bold dimmed blue"
 
 [directory]

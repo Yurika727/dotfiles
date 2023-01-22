@@ -1,3 +1,2 @@
-2022/12/02-19:20:45.201 2df4 Reusing MANIFEST /home/syaorin/.config/GitHub Desktop/Session Storage/MANIFEST-000001
-2022/12/02-19:20:45.202 2df4 Recovering log #3
-2022/12/02-19:20:45.202 2df4 Reusing old log /home/syaorin/.config/GitHub Desktop/Session Storage/000003.log 
+2023/01/22-17:55:52.722 c595 Creating DB /home/syaorin/.config/GitHub Desktop/Session Storage since it was missing.
+2023/01/22-17:55:52.735 c595 Reusing MANIFEST /home/syaorin/.config/GitHub Desktop/Session Storage/MANIFEST-000001

@@ -3,6 +3,7 @@ if status is-interactive
     starship init fish | source
 end
 set fish_greeting
-alias vi neovide
-alias neo ./bin/sysfetch
-alias wifi ./bin/wifimenu
+alias vi "WINIT_UNIX_BACKEND=x11 neovide"
+alias neo /home/syaorin/bin/fetch
+alias wifi /home/syaorin/bin/wifimenu
+alias ls colorls

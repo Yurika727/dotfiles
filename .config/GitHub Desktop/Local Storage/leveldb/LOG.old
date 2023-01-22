@@ -1,3 +1,2 @@
-2022/12/01-18:05:14.985 2469e0 Reusing MANIFEST /home/syaorin/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001
-2022/12/01-18:05:14.986 2469e0 Recovering log #3
-2022/12/01-18:05:14.987 2469e0 Reusing old log /home/syaorin/.config/GitHub Desktop/Local Storage/leveldb/000003.log 
+2023/01/22-16:43:28.303 b457 Creating DB /home/syaorin/.config/GitHub Desktop/Local Storage/leveldb since it was missing.
+2023/01/22-16:43:28.309 b457 Reusing MANIFEST /home/syaorin/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001

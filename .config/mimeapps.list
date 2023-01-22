@@ -1,21 +1,31 @@
-[Added Associations]
-text/plain=neovide.desktop;vim.desktop;
-image/jpeg=feh.desktop;org.xfce.ristretto.desktop;
-text/css=neovide.desktop;
-application/x-shellscript=kitty-open.desktop;
-
 [Default Applications]
-x-scheme-handler/„ºÌ‚U=„ºÌ‚U.desktop
-x-scheme-handler/XiØU=XiØU.desktop
-x-scheme-handler/®:²X=®:²X.desktop
-x-scheme-handler/£™EÏ,V=£™EÏ,V.desktop
-x-scheme-handler/VöÊIV=VöÊIV.desktop
-x-scheme-handler/à˜^=à˜^.desktop
-x-scheme-handler/ôªd=ôªd.desktop
-x-scheme-handler/C ò=C ò.desktop
-x-scheme-handler/¤‡Y=¤‡Y.desktop
-x-scheme-handler/1ÅìW=1ÅìW.desktop
-x-scheme-handler/=.desktop
-x-scheme-handler/0¡†=0¡†.desktop
-x-scheme-handler/‹˜.b=‹˜.b.desktop
-x-scheme-handler/Ð6×+~U=Ð6×+~U.desktop
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+text/x-c++src=userapp- "WINIT_UNIX_BACKEND=x11 neovide"-ROOGX1.desktop
+x-scheme-handler/chrome=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+inode/directory=nemo.desktop
+
+[Added Associations]
+text/x-c++src=userapp- WINIT_UNIX_BACKEND=x11 neovide-NP5MX1.desktop;userapp- "WINIT_UNIX_BACKEND=x11 neovide"-ROOGX1.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+text/css=nvim.desktop;
+text/plain=nvim.desktop;
+image/png=viewnior.desktop;
